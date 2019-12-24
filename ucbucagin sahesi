@@ -1,0 +1,4 @@
+a=int(input("terefin qiymetini qeyd edin:"))
+h=int(input("hundurluyun qiymetini qeyd edin:"))
+sahe=a*h/2
+print (sahe)
